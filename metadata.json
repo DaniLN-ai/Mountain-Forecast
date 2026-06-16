@@ -1,0 +1,6 @@
+{
+  "name": "Mountain Weather",
+  "description": "An authentic mountain weather forecast app featuring global peaks, interactive microclimate elevations, wind-chill diagnostics, and stunning real-time visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
